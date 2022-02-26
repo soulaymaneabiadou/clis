@@ -11,7 +11,7 @@ A simple script that looks up all `node_modules` and `.next` directories in the 
 #### Usage
 
 ```sh
-./node-nuke.sh
+./nodenuke.sh
 ```
 
 ## Next Wind
